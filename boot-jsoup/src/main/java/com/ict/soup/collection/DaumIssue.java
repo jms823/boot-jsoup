@@ -8,7 +8,7 @@ import lombok.Data;
 @Document("daumissue")
 public class DaumIssue {
 	
-	private String text;
 	private String uri;
+	private String text;
 
 }
